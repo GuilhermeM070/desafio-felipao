@@ -1,5 +1,5 @@
-let nome = "Guilherme";
-let experienciaXp = 7000;
+let nome = prompt("Qual é o nome do seu herói? ")
+let experienciaXp = parseInt(prompt("Qual é a experiência em XP? "));
 let nivel = "";
 
 if (experienciaXp < 1000) {
