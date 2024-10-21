@@ -18,6 +18,14 @@ Desafio da DIO._ para a implementação de desafios e projetos envolvendo a logi
       <th>Pega o repositorio que será ultilizado</th>
     </tr>
     <tr>
+      <th>git checkout main</th>
+      <th>Verificar o branch</th>
+    </tr>
+    <tr>
+      <th>git status</th>
+      <th>Verificar o status</th>
+    </tr>
+    <tr>
       <td>git add .</td>
       <td>Adiciona as atualizações</td>
     </tr>
@@ -28,6 +36,10 @@ Desafio da DIO._ para a implementação de desafios e projetos envolvendo a logi
     <tr>
       <td>git branch -M main</td>
       <td>Seleciona a main</td>  
+    </tr>
+    <tr>
+      <th>git pull origin main</th>
+      <th>Fazer pull para atualizar o branch local</th>
     </tr>
     <tr>
       <td>git remote add origin https://github.com/GuilhermeM070/desafio-felipao.git</td>
