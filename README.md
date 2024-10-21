@@ -8,11 +8,15 @@ Desafio da DIO._ para a implementação de desafios e projetos envolvendo a logi
 <table>
   <thead>
     <tr align="left">
-      <th>git init</th>
-      <th>Pega o repositorio que será ultilizado</th>
+      <th>BIZUS</th>
+      <th>GitHub e GitBash</th>
     </tr>
   </thead>
   <tbody align="left">
+     <tr>
+      <th>git init</th>
+      <th>Pega o repositorio que será ultilizado</th>
+    </tr>
     <tr>
       <td>git add .</td>
       <td>Adiciona as atualizações</td>
