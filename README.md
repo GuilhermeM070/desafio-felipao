@@ -49,5 +49,12 @@ Desafio da DIO._ para a implementação de desafios e projetos envolvendo a logi
       <td>git push -u origin main</td>
       <td>Puxa as atualizações ou projetos</td>    
     </tr>
+    <tr>
+      <td>git remote -v</td>
+      <td>Verificar os remotes configurados</td>    
+    </tr>
+    <tr>
+      <td>git remote remove origin</td>
+      <td>Remover o remote e adicionar novamente</td>   
   </tbody>
 </table>
