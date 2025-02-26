@@ -35,6 +35,8 @@ Aqui está uma lista de comandos essenciais para gerenciar commits, branches e r
 | `git remote add origin <URL>` | Conecta o repositório local ao remoto. |
 | `git remote remove origin` | Remove a configuração do repositório remoto. |
 | `git pull origin main` | Atualiza a branch local com a versão mais recente do repositório remoto. |
+| `git pull origin main --rebase` |Isso vai trazer as mudanças do repositório remoto para sua máquina e tentar mesclar automaticamente. |
+| `git push origin main` |envia suas mudanças da branch main para o repositório remoto no GitHub. |
 | `git push -u origin main` | Envia os commits para o repositório remoto. |
 | `git push origin <branch>` | Envia uma branch específica para o repositório remoto. |
 | `git push origin --delete <branch>` | Deleta uma branch remota. |
